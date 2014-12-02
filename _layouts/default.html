@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{% include head.html %}
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+
+<div id="header" class="inner">
+	
+	<div id="logo"><a href="/" title="Home"><div id="logo_text">
+		University of Alberta <div>
+		Interdisciplinary Consulting Association</div>
+	</div></a></div>
+	
+	<ul id="nav">
+		{% assign page_list = site.pages %}
+		{% assign group = 'global_navigation' %}
+		<li {% if page.url == "/" %}class="active"{% endif %}>
+			<a href="/">Home</a>
+		</li>
+		{% for node in page_list %}
+			{% if group == null or group == node.group %}
+				<li {% if page.url == node.url %}class="active"{% endif %}>
+					<a href="{{node.url}}">{{node.title}}</a>
+				</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+	
+</div>	
+
+{% if page.tagline %}
+<div class="inner">
+	<div id="hero" style="background-color: {{ page.tagline_color }};">
+		{{ page.tagline }}
+	</div>
+</div>
+{% endif %}
+	
+<div id="content" class="inner">
+	{{ content }}
+	
+</div>
+
+<div class="inner">
+{% include footer.html %}
+</div>
+
+</body>
+</html>

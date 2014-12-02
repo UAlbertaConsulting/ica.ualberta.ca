@@ -1,0 +1,13 @@
+exclude:
+- README.md
+- LICENSE.md
+
+timezone: America/Edmonton
+
+# use where a full URL is appropriate (e.g. RSS, OG tags)
+url: http://ica.ualberta.ca
+
+# metadata
+title: Interdisciplinary Consulting Association
+description: "University of Alberta student group for all students with a passion in consulting."
+

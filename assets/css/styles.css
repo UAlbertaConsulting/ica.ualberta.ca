@@ -1,0 +1,307 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,800,700);
+
+body {
+	background: #eee;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #222;
+	margin: 0;
+	font-family: "Open Sans", Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+h1 {
+	color: #000;
+	text-align: center;
+}
+
+h2 {
+	color: #000;
+}
+
+a {
+	color: #078;
+}
+
+#header {
+	height: 100px;
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+	border-top: 5px solid #000;
+	border-bottom: 5px solid #000;
+}
+
+.inner {
+	margin: 10px auto;
+	max-width: 50em;
+}
+
+#logo {
+	width: 500px;
+	height: 175px;
+	margin-top: 0px;
+	background: url("../brand/black.png") no-repeat top left;
+	/* Embedded SVG logo FTW! */
+	background-image: url('../brand/black.svg');
+	position: relative;
+	top: 5px;
+	left: 10px;
+}
+
+#logo a {
+	display: block;
+	height: 100%;
+}
+
+#logo_text {
+	/* visibility: hidden; */
+	border-left: 2px solid #178;
+	padding-left: 1ex;
+	position: absolute;
+	top: 10px;
+	left: 135px;
+	color: #178;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 20px;
+}
+#logo_text div {
+	font-size: 1.1em;
+	font-weight: 600;
+}
+
+.date {
+	width: 60px;
+	height: 60px;
+	background: #fff;
+	border-radius: 5px;
+	float: left;
+	border: 1px solid #ccc;
+	box-shadow: 0px 1px 0px 0px #ccc;
+	text-align: center;
+}
+
+.date .month {
+	background: #811;
+	color: #fff;
+	border-radius: 5px 5px 0 0;
+}
+
+.date .day {
+	font-size: x-large;
+	font-weight: bold;
+}
+
+.event {
+	height: 70px;
+	position: relative;
+}
+
+.event h3 {
+	text-align: left;
+	margin: 0;
+	margin-bottom: 0.5ex;
+}
+
+.event p {
+	text-align: left;
+	margin: 0;
+}
+
+.event:after {
+	content: "\279C";
+	border-radius: 15px;
+	width: 30px;
+	height: 28px;
+	background: #ddd;
+	text-align: center;
+	font-size: 18px;
+	padding: 2px 0 0 0 ;
+	background: #ccc;
+	color: #eee;
+	display: block;
+	position: absolute;
+	right: 0px;
+	top: 10px;
+}
+
+.event:hover:after {
+	background: #999;
+}
+
+.event_info {
+	margin-left: 70px;
+}
+
+.person {
+	height: 70px;
+	position: relative;
+}
+
+.person:hover .portrait {
+	margin: -5px;
+	width: 70px;
+	height: 70px;
+	border-radius: 35px;
+}
+
+.person h3 {
+	text-align: left;
+	margin: 0;
+	margin-bottom: 0.5ex;
+}
+
+.person p {
+	text-align: left;
+	margin: 0;
+}
+
+.person_info {
+	margin-left: 70px;
+}
+
+.portrait {
+	width: 60px;
+	height: 60px;
+	border-radius: 30px;
+	float: left;
+	-webkit-transition: 0.1s ease;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+#footer {
+	clear: both;
+	border-top: 5px solid #000;
+	text-align: center;
+	font-size: 0.75em;
+	margin: 2ex auto 1ex auto;
+	padding: 5px;
+}
+
+#nav {
+	list-style: none;
+	color: #fff;
+	position: absolute;
+	bottom: 0px;
+	left: 150px;
+	margin: 0;
+	padding: 0;
+}
+
+#nav li {
+	float: left;
+}
+
+#nav li a {
+	margin: 0 0.5ex;
+	height: 2.5ex;
+	background: #078;
+	display: block;
+	padding: 0.5ex 2ex;
+	text-decoration: none;
+	color: #fff;
+}
+
+#nav li.active a {
+	background: #000;
+}
+
+#nav li a:hover {
+	background: #000;
+	outline: 0.5ex solid #000;
+}
+
+#hero {
+	background: #000 url(../brand/grid.svg) no-repeat center -40px;
+	text-align: center;
+	font-size: 4em;
+	color: #fff;
+	font-weight: 700;
+	padding: 0.5ex;
+}
+
+#hero strong {
+	font-weight: 800;
+}
+
+#leader {
+	margin: 10px;
+	font-size: 2.5ex;
+	text-align: center;
+}
+
+#leader strong {
+	color: #178;
+	font-weight: inherit;
+}
+
+.mainbutton {
+	background: #078;
+	color: #fff;
+	padding: 1ex;
+	display: block;
+	margin: 1ex 0;
+}
+
+.mainbutton:hover {
+	background: #000;
+	outline: 0.5ex solid #000;
+}
+
+@media screen and (max-width: 900px) {
+
+	body{
+		font-size: 14px;
+	}
+	
+}
+
+@media screen and (max-width: 700px) {
+
+	#content{
+		margin: 0 1ex;
+	}
+	
+	#hero{
+		font-size: 2em;
+	}
+	
+	#header {
+		height: auto;
+	}
+	
+	#logo_text {
+		top: 55px;
+		left: 2px;
+		font-size: 14px;
+	}
+	
+	#nav {
+		position: absolute;
+		bottom: 0px;
+		left: 0px;
+		margin: 0;
+		padding: 0;
+	}
+	
+	#nav li a {
+		margin: 0.5ex;
+		padding: 0.5ex 1ex;
+	}
+	
+}
