@@ -49,7 +49,7 @@ This workshop will cover:
 
 The first 30 people sign up will receive 'Resume template and writing tips' from MDClass.
 
-(Register online)[https://docs.google.com/forms/d/1PnNA3ri4lq0KT8mkGPJBz4Ewher7EPaBCW5hhsJ0_0M/viewform] and then join us in BUS 4-5.
+[Register online](https://docs.google.com/forms/d/1PnNA3ri4lq0KT8mkGPJBz4Ewher7EPaBCW5hhsJ0_0M/viewform) and then join us in BUS 4-5.
 
 ## Consulting 201
 
