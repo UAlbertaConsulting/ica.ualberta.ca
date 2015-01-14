@@ -23,11 +23,33 @@ This was an online presentation by George Fu, Financial Analyst at Shell.
 
 [Sign up here.](http://goo.gl/forms/ZyhVaxpQnh)
 
-## Practice Behavioral Interview: January 15 @ 17:00
+## PWC Consulting Information Session: January 22 @ 17:00
 
-Need tips on preparing for interviews? ICA will be hosting mock behavioral interviews on January 16th. Come for the opportunity to gain tips and feedback from students with previous interview experience. 
+### Consulting: Solve challenging problems. Make change stick.
 
-[Sign up here.](http://goo.gl/forms/rIHuJFtTTj)
+ICA is hosting this event with PwC on Thursday, January 22nd, 2015 at 5:00 pm. PwC will bring consultants to our campus to network with students who are interested in consulting and they will describe their rotational consulting program.
+
+> At PwC, we create opportunities for our clients to work smarter and grow faster. As an associate, you'll live it, make it happen and make a difference, as you experience various areas of our Consulting practice. During our two-year rotational consulting program, you'll develop skills, insights and relationships across industries that will benefit you for life. If you are interested in a career in management consulting and want to learn more about what we offer at PwC, please join us for an information and networking session on Thursday January 22th from 5-7pm in the Stollery Executive Development Centre. We look forward to meeting you!
+
+Location: BUS 504 (Stollery Executive Centre)
+ 
+Visit the [PwC Campus Recruitment website](http://www.pwc.com/ca/en/campus-recruiting/application-process/index.jhtml) if you're interested in joining their rotational program in August 2015. The jobs will close on February 2. 
+
+## Consulting Case and Behavioural Interview Workshop: January 23 @ 14:00
+
+Need tips on preparing for interviews? ICA, MIS club and MDClass are together presenting you an interview preparation workshop! With McKinsey, PwC, Deloitte all recruiting candidates right now, this session will help you understand what consulting firms are seeking.
+
+This workshop will cover:
+
+- Behavioral Interview basics
+
+- Case Interview basics
+
+- Mock Interview 
+
+The first 30 people sign up will receive 'Resume template and writing tips' from MDClass.
+
+(Register online)[https://docs.google.com/forms/d/1PnNA3ri4lq0KT8mkGPJBz4Ewher7EPaBCW5hhsJ0_0M/viewform] and then join us in BUS 4-5.
 
 ## Consulting 201
 
