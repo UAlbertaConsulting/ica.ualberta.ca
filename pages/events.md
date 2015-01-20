@@ -23,11 +23,13 @@ This was an online presentation by George Fu, Financial Analyst at Shell.
 
 [Sign up here.](http://goo.gl/forms/ZyhVaxpQnh)
 
-## PWC Consulting Information Session: January 22 @ 17:00
+## PwC Consulting Information Session: January 22 @ 17:00
 
 ### Consulting: Solve challenging problems. Make change stick.
 
 ICA is hosting this event with PwC on Thursday, January 22nd, 2015 at 5:00 pm. PwC will bring consultants to our campus to network with students who are interested in consulting and they will describe their rotational consulting program.
+
+[Sign up here.](https://docs.google.com/forms/d/1e7392sgLzgins5VxVa1JvcX7fMV3txekN2AH7nucuz0/viewform)
 
 > At PwC, we create opportunities for our clients to work smarter and grow faster. As an associate, you'll live it, make it happen and make a difference, as you experience various areas of our Consulting practice. During our two-year rotational consulting program, you'll develop skills, insights and relationships across industries that will benefit you for life. If you are interested in a career in management consulting and want to learn more about what we offer at PwC, please join us for an information and networking session on Thursday January 22th from 5-7pm in the Stollery Executive Development Centre. We look forward to meeting you!
 
