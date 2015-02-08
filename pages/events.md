@@ -59,6 +59,18 @@ So, you've heard about the consulting field, and by now you know about some big 
 
 Come to Consulting 201 to learn the answers to these questions and more.
 
+## Wine & Cheese Networking Night: Wednesday, February 11 @ 18:00
+
+ICA and University of Alberta Management Information System Club are working together to host the Wine & Cheese Networking Night!  This night is dedicated to getting students to mingle with industry professionals from the Consulting and IT practice areas.
+
+We will start our event with a keynote presentation. The rest of the evening is round table networking and socializing, with complementary hors d'oeuvres and wine in typical cocktail party style. This is a great opportunity to meet and interact with corporate professionals. In a similar structure to Speed Dating, students will get the chance to meet 1-on-1 and chat with each industry professionals for about 5 minutes before rotating through to another. 
+
+With food, wine and even a raffle door prize, we are hoping you all come out and start building your connections. The night will consist of networking opportunities, a presentation and other activities.
+
+The event is on Wednesday, February 11, 2015 from 6-9 PM, in Room 5-04 (Stollery Development Centre) in the University of Alberta School of Business building.
+
+[Sign up here.](http://goo.gl/forms/KE2fkLrnvX)
+ 
 ## Consulting Speed Networking
 
 Do you know how to make an elevator pitch? Have you ever had to introduce yourself, hold a short concise conversation, and make an impression? This is your opportunity! Hone your networking skills and broaden your personal network through our 'Speed Networking' event! Coffee and snacks will be provided.
