@@ -81,7 +81,7 @@ RSVP to [ica@ualberta.ca](mailto:ica@ualberta.ca) with the following information
 - Program and year of study
 - Dietary restrictions or allergies
 
-## 2015 Consulting Case Competition - March 2015
+## 2015 Consulting Case Competition - April 3–4, 2015
 
 ICA’s first annual Case Competition is designed to give non-MBA undergraduate and graduate degree candidates a chance to work as a team to solve a case together while demonstrating their analytical, problem solving and presentation skills.
 
