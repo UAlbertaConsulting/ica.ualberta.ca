@@ -19,7 +19,7 @@ Our Case Competition is a one-day, completely free event that does not require p
 * Teams must have 3 to 4 members. Teams must also have a name – feel free to get creative. Maximum of 10 teams.
 * Everyone is welcome to apply, but there must be at least three non-MBA University of Alberta students per team.
 * Please be prepared with the name, email address, program, and year of study for each team member.
-* CASH PRIZES: $500 for first place, $300 for second place, $200 for third place
+* CASH PRIZES: $500 for first place, $300 for second place, $200 for third place.
 * Email us at ica@ualberta.ca if you have questions related to the case competition.
 
 ## Tentative Schedule:
@@ -28,7 +28,7 @@ Our Case Competition is a one-day, completely free event that does not require p
 
 Thank you!
 
-Priority will be given to applications received before the end of March27th 2015.
+Priority will be given to applications received before the end of March 27, 2015.
 
 ## Sponsorship
 
