@@ -12,7 +12,7 @@ tagline_color: "#050"
 
 - [Transforming transportation in Tropolis](Tropolis.pdf)
 - [Water Conservation](Water_Conservation.pdf)
-- [Nutrition North Canada](ICA-Case_2015_NNC.pdf)
+- [Nutrition North Canada](Nutrition_North_Canada.pdf) (2015 ICA Case Competition challenge)
 
 Note: Not all cases are published online.
 
