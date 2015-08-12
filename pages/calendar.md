@@ -4,7 +4,7 @@ permalink: /calendar/
 tagline: Preparation is key to success.
 title: Calendar
 group: "global_navigation"
-tagline_color: "#FC0"
+tagline_color: "#F90"
 ---
 
 ## Coordinate Practice Interview Sessions
