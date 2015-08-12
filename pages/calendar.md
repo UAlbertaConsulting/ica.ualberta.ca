@@ -15,4 +15,4 @@ Consulting is an extremely competitive field. Potential candidates often have a 
 
 Students interested in a career in consulting can collaborate with other students preparing for either behavioural interviews or case interviews. 
 
-<iframe src=" http://teamup.com/ks6e89c42c5180e726?date=today&view=a&sidepanel=c" width="720" height="600" frameborder="0"></iframe>
+<iframe src=" http://teamup.com/ks6e89c42c5180e726?date=today&view=a&sidepanel=c" width="800" height="600" frameborder="0"></iframe>
