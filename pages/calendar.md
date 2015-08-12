@@ -13,6 +13,6 @@ Consulting is an extremely competitive field. Potential candidates often have a 
 
 ## How to Use the Calendar
 
-Students interested in a career in consulting can collaborate with other students preparing for either behavioural interviews or case interviews. 
+Students interested in a career in consulting can collaborate with other students preparing for either <font color="blue">behavioural interviews (color coded blue)</font> or <font color="red">case interviews (color coded red)</font>. 
 
 <iframe src=" http://teamup.com/ks6e89c42c5180e726?date=today&view=a&sidepanel=c" width="800" height="600" frameborder="0"></iframe>
