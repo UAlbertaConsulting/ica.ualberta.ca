@@ -3,7 +3,7 @@ layout: default
 permalink: /documents/
 tagline: Thoughts and records.
 group: "global_navigation"
-title: Documents
+title: Docs
 tagline_color: "#050"
 ---
 
