@@ -15,11 +15,11 @@ Consulting is an extremely competitive field. Potential candidates often have a 
 
 Students interested in a career in consulting can collaborate with other students preparing for either <font color="blue">behavioural interviews (color coded blue)</font> or <font color="red">case interviews (color coded red)</font>. It is recommended to commit at least <b>2 hours</b> in total for an interview session - 45 minutes for interviewing and 15 minutes for feedback, for each participant.
 
-##### A) Join an Interview Session
+#### A) Join an Interview Session
 <dl><dd><p>
-Review the Calendar below for an interview type, date and time slot in which you are able to act as an interview-lead. Send an invite to the person hosting the session, <a href="https://cloud.githubusercontent.com/assets/12804714/9259685/3517af84-41c0-11e5-834f-c281d1be4315.gif " target="_blank">by following these steps.</a>
-</p></dd></dl>
-##### B) Host an Interview Session
+Review the Calendar below for an interview type, date and time slot in which you are able to act as an interview-lead. Send an invite to the person hosting the session, <a href="https://cloud.githubusercontent.com/assets/12804714/9259685/3517af84-41c0-11e5-834f-c281d1be4315.gif " target="_blank">by following these steps.</a></p></dd></dl>
+
+#### B) Host an Interview Session
 <dl><dd><p>
 If the practice sessions listed on the calendar do not accommodate your schedule or if you are interested in different types of interviews (for example, Management Consulting interviews differ from Technology Consulting), then create your own time slot. <b>Please follow the instructions on this link before adding an event</b>
 </p></dd></dl>
