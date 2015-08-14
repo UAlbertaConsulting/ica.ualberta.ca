@@ -13,7 +13,7 @@ Consulting is an extremely competitive field. Potential candidates often have a 
 
 ## How to Use the Calendar
 
-Students interested in a career in consulting can collaborate with other students preparing for either <font color="blue">behavioural interviews (color coded blue)</font> or <font color="red">case interviews (color coded red)</font>. It is recommended to commit at least <b>2 hours</b> in total for an interview session - 45 minutes for interviewing and 15 minutes for feedback, for each participant.
+Students interested in a career in consulting can collaborate with other students preparing for either <font color="blue">behavioural interviews</font> (color coded blue) or <font color="red">case interviews</font> (color coded red). It is recommended to commit at least <b>2 hours</b> in total for an interview session - 45 minutes for interviewing and 15 minutes for feedback, for each participant.
 
 #### A) Join an Interview Session
 <dl><dd><p>
