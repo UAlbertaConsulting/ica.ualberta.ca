@@ -21,9 +21,8 @@ Review the Calendar below for an interview type, date and time slot in which you
 
 #### B) Host an Interview Session
 <dl><dd><p>
-If the practice sessions listed on the calendar do not accommodate your schedule or if you are interested in different types of interviews (for example, Management Consulting interviews differ from Technology Consulting), then create your own time slot. <b>Please follow the instructions on this link before adding an event</b>
+If the practice sessions listed on the calendar do not accommodate your schedule or if you are interested in different types of interviews (for example, Management Consulting interviews differ from Technology Consulting), then create your own time slot. <a href="https://cloud.githubusercontent.com/assets/12804714/9266601/8b653bb4-4200-11e5-8a65-b3d462c7ddbc.gif" target="_blank"><b>BEFORE adding an event, please follow this link for instructions.</b></a>
 </p></dd></dl>
-
 
 
 <iframe src=" http://teamup.com/ks6e89c42c5180e726?date=today&view=a&sidepanel=c" width="800" height="600" frameborder="0"></iframe>
