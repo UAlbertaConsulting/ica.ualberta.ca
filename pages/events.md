@@ -13,7 +13,9 @@ Learn more about consulting and our activities at our first event of the year. M
 
 We are giving away 20 free drinks sponsored by Teapsy, for the first 20 people that [<b>RSVP through this link</b>](https://docs.google.com/forms/d/12hm3OVVTAaeoh3yjNhPj9udOzXb3eJpgkGINSoKYsac/viewform?usp=send_form.)
 
+#### ICA Case Session - October 1, 5:15 to 6:30pm
 
+#### ICA Networking Night in November - Details TBD
 
 ## Recruiting Info & Events
 
