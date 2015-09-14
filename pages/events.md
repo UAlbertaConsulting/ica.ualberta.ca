@@ -17,7 +17,7 @@ We are giving away 20 free drinks sponsored by Teapsy, for the first 20 people t
 ### ICA Networking Night in November - Details TBD
 
 <br></br>
-<p>
+
 ## Recruiting Info & Events
 
 ### PwC Employer Info Session - Details TBD
@@ -33,6 +33,5 @@ Hosted by the ICA! Stay tuned for this exclusive networking opportunity with one
 ### [IBM Global Business Services Info Session](https://docs.google.com/forms/d/18QU6H5edT9cR_PFeURp4wgxnOzrevclyVrq5qeNftHk/viewform?entry.1086805608&entry.636434856&entry.1265305040) - September 29, 5:15 to 6:45pm @ L1-140 CCIS
 
 ### ICA Consulting Industry Night - Details TBD
-</p>
 
 
