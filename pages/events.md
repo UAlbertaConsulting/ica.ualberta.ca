@@ -16,7 +16,7 @@ We are giving away 20 free drinks sponsored by Teapsy, for the first 20 people t
 #### ICA Case Session - October 1, 5:15 to 6:30pm
 
 #### ICA Networking Night in November - Details TBD
-
+<br>
 ## Recruiting Info & Events
 
 #### PwC Employer Info Session - Details TBD
