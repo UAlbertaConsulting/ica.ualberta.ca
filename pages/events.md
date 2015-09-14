@@ -20,7 +20,7 @@ We are giving away 20 free drinks sponsored by Teapsy, for the first 20 people t
 ## Recruiting Info & Events
 
 #### PwC Employer Info Session - Details TBD
-##### Hosted by the ICA! Stay tuned for this exclusive networking opportunity with one of the Big 4 Consulting companies
+<b>Hosted by the ICA! Stay tuned for this exclusive networking opportunity with one of the Big 4 Consulting companies</b>
 <dl><dd><p>Deadline for Full-time applications:  September 21</p></dd></dl>
 
 #### [McKinsey Employer Info Session](https://docs.google.com/forms/d/1Bv_-jTgGceCVSE2TD76d5fATUzP5k-GlqxY2dn2-dNg/viewform?entry.1086805608&entry.636434856&entry.1265305040) - September 17, 7:00 to 8:30pm @ E1-007 ETLC
