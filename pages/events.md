@@ -8,7 +8,7 @@ tagline_color: "#800"
 ---
 
 ## [Interdisciplinary Consulting Association Kickoff Event](https://www.facebook.com/events/777106899060211/)
-<b>September 17 - 5:15 to 6:30pm @ CCIS L1-140</b></center>
+<b>September 17 - 5:15 to 6:30pm @ CCIS L1-140</b>
 
 Learn more about consulting and our activities at our first event of the year. Mingle and network with undergraduate and graduate students interested in consulting over a fun team activity!
 
@@ -17,9 +17,7 @@ We are giving away 20 free drinks sponsored by Teapsy, for the first 20 people t
 ### ICA Case Session - October 1, 5:15 to 6:30pm
 
 ### ICA Networking Night in November - Details TBD
-
 <br>
-
 ## Recruiting Info & Events
 
 ### PwC Employer Info Session - Details TBD
