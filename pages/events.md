@@ -8,7 +8,7 @@ tagline_color: "#800"
 ---
 
 ## [Interdisciplinary Consulting Association Kickoff Event](https://www.facebook.com/events/777106899060211/)
-#### September 17 - 5:15 to 6:30pm @ CCIS L1-140</b>
+<b>September 17 - 5:15 to 6:30pm @ CCIS L1-140</b></center>
 
 Learn more about consulting and our activities at our first event of the year. Mingle and network with undergraduate and graduate students interested in consulting over a fun team activity!
 
