@@ -18,7 +18,7 @@ We will also be hosting a keynote speaker who will present on leadership and the
 
 This cross-functional event will include professionals from all practices in consulting, and is an excellent opportunity for graduating students to meet potential employers.
 
-<b>Agenda:</b>
+Agenda:
 <ul>
 <li><b>6:00pm</b></li> Reception! Get in the door, grab a drink and Hors d’oeuvres, prepare for what's next.
 <li><b>6:30pm</b></li> Keynote Speech of the night.
@@ -26,9 +26,6 @@ This cross-functional event will include professionals from all practices in con
 <li><b>8:00pm</b></li> Networking and Socializing
 <li><b>9:30pm</b></li> Closing remarks
 </ul>
-Where: Stollery Center, Room 504
-When: Wednesday, Nov 18th, 2015 – 6:00 – 8:30PM
-
 
 #### Follow this link to RSVP: https://consultingspeednetworking.splashthat.com/ 
 
