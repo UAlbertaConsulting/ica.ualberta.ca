@@ -7,7 +7,7 @@ title: Events
 tagline_color: "#800"
 ---
 
-## [Consulting Speed Networking Night](https://www.facebook.com/events/1625718124358104/) November 18 - 6:00 to 9:30pm @ BUS 5-04
+### [Consulting Speed Networking Night](https://www.facebook.com/events/1625718124358104/) November 18 - 6:00 to 9:30pm @ BUS 5-04
 
 
 Do you know how to make an elevator pitch? Have you ever had to introduce yourself, hold a short concise conversation, AND make an impression? If so, this networking session is just for you! Hone your networking skills and broaden your personal network through our first annual ‘Speed Networking’ event with professional consultants and fellow ICA members!
