@@ -6,11 +6,11 @@ title: Home
  +<head>
  +   <!-- HTML meta refresh URL redirection -->
  +   <meta http-equiv="refresh"
- +   content="0; url=uofaica.com">
+ +   content="0; url=ica.ualberta.ca/redirect">
  +</head>
  +<body>
  +   <p>The page has moved to:
- +   <a href="uofaica.com">this page</a></p>
+ +   <a href="ica.ualberta.ca/redirect">this page</a></p>
  +</body>
  +</html>
   
