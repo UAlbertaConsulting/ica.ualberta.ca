@@ -5,21 +5,10 @@ tagline: We love solving problems. Do you?
 title: Home
 tagline_color: "#508"
 ---
-<!DOCTYPE html>
-<html>
-<head>
-   <!-- HTML meta refresh URL redirection -->
-   <meta http-equiv="refresh"
-   content="0; url=http://www.uofaica.com/">
-</head>
-<body>
-   <p>The page has moved to:
-   <a href="http://www.uofaica.com/">this page</a></p>
-</body>
-</html>
 
 
-<div id="leader"><p>We think it's fun to <strong>solve problems</strong>,<br /> and discover careers that <strong>harness this passion</strong>,<br /> in a cooperative, interdisciplinary environment.</p><p>Our activities include <strong>workshops, case studies, and industry workshops</strong>.</p><p>Students from <strong>all faculties and backgrounds</strong> are welcome.</p>
+
+<div id="leader"><p>We have moved!,Visit our new website: www.uofaica.com</p>
 
 	<a href="https://docs.google.com/a/ualberta.ca/forms/d/1f9AcNdFUGhYFZxYwy085S-3CzNdOY1nTy7BRGG0kiBQ/viewform" class="mainbutton">Become a Member</a>
 
